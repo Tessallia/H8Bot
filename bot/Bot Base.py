@@ -15,7 +15,7 @@ from discord.ext.commands import Bot
 os.chdir('C:\\Users\\Satan\\Desktop\\bot')
 
 BOT_Prefix = ("?", "!")
-Token = '''NDU2ODcwNjUyNzMzOTQ3OTE1.DgRExQ.D9MT5B1iROZgTil7zp0ary-zDCc'''
+Token = '''nothing'''
 
 client = Bot(command_prefix = BOT_Prefix)
 
